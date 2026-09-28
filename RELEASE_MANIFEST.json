@@ -1,0 +1,13 @@
+{
+  "public_version": "0.1.0",
+  "source_candidate": "security-track-s14-rc7-publicfix1",
+  "rc7_zip": "security-track-s14-rc7-candidate.zip",
+  "rc7_zip_sha256": "d3dee6cbd4193d83f15b204871408c7992c53e6a6dcab8bafe440de533242b6e",
+  "deterministic_assessment_sha256": "867a836985f5cb6c42cb61d797395f960e086adfbcdbf73a1ea4d0fb2328c386",
+  "assessment_families": ["SA-01", "SA-02", "SA-03", "SA-04", "SA-05", "SA-06"],
+  "deterministic_test_count": 57,
+  "independent_deterministic_audit": "PASS",
+  "independent_empirical_replication": "NOT_COMPLETED",
+  "licenses": {"code": "MIT", "documentation_and_research_assets": "CC BY 4.0"},
+  "limitations": "S8/S10 are historical context only; empirical observations are configuration-specific and not independently replicated."
+}

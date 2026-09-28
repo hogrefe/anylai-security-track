@@ -1,0 +1,1 @@
+S8/S10 material is historical context. Complete public artifact sets are not included; this package makes no S8/S10 hash-verification, empirical-reproduction, external-model, or external-service claim.

@@ -1,0 +1,2 @@
+# Internal clean-room validation
+Result: PASS. The bundled CPython 3.14.7 runtime executed the deterministic package locally with no host Python, network, model, Ollama service, credentials, or private workspace dependency. Full test suite and deterministic artifact generation passed. This is internal validation only, not independent third-party replication. S8/S10 are historical context only and are neither reproduced nor fully verified here.

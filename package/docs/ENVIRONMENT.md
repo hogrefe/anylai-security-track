@@ -1,0 +1,1 @@
+Internal clean-room target: Ubuntu 22.04 x86_64, glibc 2.35. Bundled runtime: CPython 3.14.7 built from authenticated official Python.org source. No host Python or network is used during deterministic reproduction.
